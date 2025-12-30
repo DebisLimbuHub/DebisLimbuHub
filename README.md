@@ -40,8 +40,6 @@ This uses your GitHub username (DebisLimbuHub) where appropriate.
   </a>
   <img src="https://img.shields.io/badge/Location-UK-0e75b6?style=flat" alt="location" />
   <img src="https://img.shields.io/badge/Security%20Clearance-Eligible%20(SC)-0e75b6?style=flat" alt="security clearance" />
-  <a href="./DebisThulungLimbu_CV.pdf">
-    <img src="https://img.shields.io/badge/CV-PDF-0e75b6?style=flat" alt="cv pdf" />
   </a>
 </p>
 
